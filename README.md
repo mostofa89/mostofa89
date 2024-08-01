@@ -5,8 +5,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mostofa-kamal-joy-636b89260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mostofa-kamal-joy-636b89260/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100063557164448" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100063557164448" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mostofa kamal joy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostofa kamal joy" height="30" width="40" /></a>
+<a href="https://fb.com/mostofa kamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mostofa kamal" height="30" width="40" /></a>
 <a href="https://instagram.com/mostofakamal.joy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mostofakamal.joy" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mostofakamal4689" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mostofakamal4689" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mostofakamaljoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mostofakamaljoy" height="30" width="40" /></a>
@@ -18,4 +18,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostofa89&show_icons=true&locale=en&layout=compact" alt="mostofa89" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostofa89&" alt="mostofa89" /></p>
+
 
