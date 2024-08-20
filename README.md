@@ -18,6 +18,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pylapp&layout=compact&exclude_repo=Robotframwork&hide=Robotframwork" alt="Top Languages">
 </a><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mostofa89&show_icons=true&locale=en" alt="mostofa89" /></p><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mostofa89&show_icons=true&locale=en" alt="mostofa89" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostofa89&" alt="mostofa89" /></p><br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostofa89&" alt="mostofa89" /></p>
