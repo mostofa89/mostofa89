@@ -31,15 +31,15 @@
 <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
 </p>
 
-<p align="left">
+<p align="Center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mostofa89&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p><br>
 
-<p align="left">
+<p align="Center">
 <img src="https://github-readme-stats.vercel.app/api?username=mostofa89&show_icons=true&locale=en" alt="GitHub Stats" />
 </p><br>
 
-<p align="left">
+<p align="Center">
 <img src="https://github-readme-streak-stats.demolab.com?user=mostofa89&theme=dark" alt="GitHub Streak Stats" />
 </p>
 
