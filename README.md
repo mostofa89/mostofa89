@@ -20,19 +20,19 @@
 <h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
   <a href="https://linkedin.com/in/mostofa-kamal-joy-636b89260" target="blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"/>
   </a>
   <a href="https://fb.com/mostofa.kamal.934728" target="blank">
-    <img src="https://skillicons.dev/icons?i=facebook" height="40" alt="Facebook"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="Facebook"/>
   </a>
   <a href="https://instagram.com/mostofakamal.joy" target="blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="40" alt="Instagram"/>
   </a>
   <a href="https://www.hackerrank.com/mostofakamal4689" target="blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" height="40" alt="HackerRank"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hackerrank/hackerrank-original.svg" height="40" alt="HackerRank"/>
   </a>
   <a href="https://leetcode.com/mostofakamaljoy/" target="blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="40" alt="LeetCode"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" alt="LeetCode"/>
   </a>
 </p>
 
@@ -41,39 +41,41 @@
 <!-- Languages and Tools -->
 <h3 align="center">🛠️ Languages & Tools</h3>
 <p align="center">
-  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" height="45" /></a>
-  <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" height="45" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" height="45" /></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://skillicons.dev/icons?i=html" height="45" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://skillicons.dev/icons?i=css" height="45" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" height="45" /></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://skillicons.dev/icons?i=django" height="45" /></a>
-  <a href="https://numpy.org/" target="_blank"><img src="https://skillicons.dev/icons?i=numpy" height="45" /></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pandas" height="45" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" height="45" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" height="45" /></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="45" alt="Python" /></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="45" alt="Java" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" /></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="45" alt="HTML5" /></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="45" alt="CSS3" /></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="45" alt="Tailwind CSS" /></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" height="45" alt="Django" /></a>
+  <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="45" alt="NumPy" /></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="45" alt="Pandas" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="45" alt="MySQL" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="45" alt="Git" /></a>
 </p>
 
 <hr style="height:2px;border:none;background:linear-gradient(to right,#ff00cc,#3333ff,#00ffff);" />
 
-<!-- GitHub Stats Section -->
+<!-- GitHub Stats -->
 <h3 align="center">📊 GitHub Stats</h3>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mostofa89&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.demolab.com?user=mostofa89&theme=tokyonight" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mostofa89&show_icons=true&theme=tokyonight" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostofa89&theme=tokyonight" height="180" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostofa89&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostofa89&layout=compact&theme=tokyonight" height="180" alt="Top Languages" />
 </p>
 
 <hr style="height:2px;border:none;background:linear-gradient(to right,#00ffff,#00ff99,#ff6a00);" />
 
-<!-- Footer -->
+<!-- GitHub Trophies -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mostofa89&theme=discord&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
+<!-- Footer -->
 <p align="center">
   💡 <i>"Code. Learn. Build. Repeat."</i> 💡
 </p>
