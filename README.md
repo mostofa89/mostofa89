@@ -19,19 +19,19 @@
 <!-- Social Links -->
 <h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/mostofa-kamal-joy-636b89260" target="blank">
+  <a href="https://linkedin.com/in/mostofa-kamal-joy-636b89260" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"/>
   </a>
-  <a href="https://fb.com/mostofa.kamal.934728" target="blank">
+  <a href="https://fb.com/mostofa.kamal.934728" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="Facebook"/>
   </a>
-  <a href="https://instagram.com/mostofakamal.joy" target="blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="40" alt="Instagram"/>
+  <a href="https://instagram.com/mostofakamal.joy" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" height="40" alt="Instagram"/>
   </a>
-  <a href="https://www.hackerrank.com/mostofakamal4689" target="blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hackerrank/hackerrank-original.svg" height="40" alt="HackerRank"/>
+  <a href="https://www.hackerrank.com/mostofakamal4689" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="40" alt="HackerRank"/>
   </a>
-  <a href="https://leetcode.com/mostofakamaljoy/" target="blank">
+  <a href="https://leetcode.com/mostofakamaljoy/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" alt="LeetCode"/>
   </a>
 </p>
