@@ -53,15 +53,12 @@
   <a href="https://matplotlib.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="45" alt="Matplotlib" /></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="45" alt="MySQL" /></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="45" alt="Git" /></a>
-  
-
 </p>
 
 <hr style="height:2px;border:none;background:linear-gradient(to right,#ff00cc,#3333ff,#00ffff);" />
 
 <!-- GitHub Stats -->
 <h3 align="center">📊 GitHub Stats</h3>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mostofa89&show_icons=true&theme=tokyonight" height="180" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostofa89&theme=tokyonight" height="180" alt="GitHub Streak Stats" />
@@ -78,14 +75,17 @@
   <img src="https://github-profile-trophy.vercel.app/?username=mostofa89&theme=discord&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
+<!-- Snake Animation -->
+<h3 align="center">🐍 Snake Animation</h3>
+<p align="center">
+  <object type="image/svg+xml" data="https://raw.githubusercontent.com/maurodesouza/maurodesouza/main/output/snake.svg" width="500" height="500"></object>
+</p>
+
 <!-- Footer -->
 <p align="center">
   💡 <i>"Code. Learn. Build. Repeat."</i> 💡
 </p>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 
 
