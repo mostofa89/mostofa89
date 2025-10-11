@@ -75,11 +75,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=mostofa89&theme=discord&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
-<!-- Snake Animation -->
-<h3 align="center">🐍 Snake Animation</h3>
-<p align="center">
-  <object type="image/svg+xml" data="https://raw.githubusercontent.com/maurodesouza/maurodesouza/main/output/snake.svg" width="500" height="500"></object>
-</p>
 
 <!-- Footer -->
 <p align="center">
