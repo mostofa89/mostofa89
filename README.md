@@ -1,5 +1,5 @@
-# 👋 Hi, I'm <span style="color:#00bfff;">Abu Hena Mostofa Kamal Joy</span>  
-### 🚀 Passionate Learner & Aspiring Software Engineer from Bangladesh 🇧🇩
+# Abu Hena Mostofa Kamal Joy
+**Passionate Learner & Aspiring Software Engineer from Bangladesh**
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mostofa89&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
@@ -14,7 +14,7 @@
 
 ---
 
-## 🌐 Connect with Me
+## Technical Profiles
 <p align="center">
   <a href="https://linkedin.com/in/mostofa-kamal-joy-636b89260" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
@@ -35,7 +35,7 @@
 
 ---
 
-## 🛠️ Languages & Tools
+## Technical Stack
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" alt="Python"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" alt="Java"/>
@@ -53,7 +53,7 @@
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Overview
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=mostofa89&show_icons=true&theme=tokyonight&hide_border=true" 
@@ -77,7 +77,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## Achievements
 <p align="center">
   <img 
     src="https://github-profile-trophy.vercel.app/?username=mostofa89&theme=discord&margin-w=15&margin-h=15&no-frame=true" 
@@ -87,8 +87,12 @@
 
 ---
 
-### 💡 *"Code. Learn. Build. Repeat."*
->
+---
+
+**Motto:** Code. Learn. Build. Repeat.
+
+*Always open to new opportunities and collaborations.*
+
 
 
 
