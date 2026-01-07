@@ -2,7 +2,7 @@
 **Passionate Learner & Aspiring Software Engineer from Bangladesh 🇧🇩**
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mostofa89&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mostofa89&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 <p align="center">
@@ -14,28 +14,28 @@
 
 ---
 
-## 🔗 Technical Profiles
+## 🔗 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/mostofa-kamal-joy-636b89260" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+  <a href="https://linkedin.com/in/mostofa-kamal-joy-636b89260">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
-  <a href="https://fb.com/mostofa.kamal.934728" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" />
+  <a href="https://fb.com/mostofa.kamal.934728">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40"/>
   </a>
-  <a href="https://instagram.com/mostofakamal.joy" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" />
+  <a href="https://instagram.com/mostofakamal.joy">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40"/>
   </a>
-  <a href="https://www.hackerrank.com/mostofakamal4689" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="40" />
+  <a href="https://www.hackerrank.com/mostofakamal4689">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="40"/>
   </a>
-  <a href="https://leetcode.com/mostofakamaljoy/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" />
+  <a href="https://leetcode.com/mostofakamaljoy/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/>
   </a>
 </p>
 
 ---
 
-## 🛠️ Technical Stack
+## 🛠️ Tech Stack
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
@@ -55,19 +55,35 @@
 
 ## 📊 GitHub Overview
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mostofa89&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostofa89&theme=tokyonight&hide_border=true" height="180"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=mostofa89&show_icons=true&theme=tokyonight" 
+    height="180"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostofa89&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostofa89&layout=compact&theme=tokyonight" 
+    height="160"
+  />
 </p>
 
 ---
 
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mostofa89&theme=discord&margin-w=15&margin-h=15&no-frame=true"/>
+  <img src="https://img.shields.io/badge/Problems%20Solved-500%2B-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LeetCode-Active-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HackerRank-5%E2%AD%90-green?style=for-the-badge"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mostofa89&theme=tokyo-night" 
+  />
 </p>
 
 ---
@@ -75,7 +91,8 @@
 ### 💡 Motto
 **Code. Learn. Build. Repeat.**
 
-🚀 *Always open to learning, collaboration, and new opportunities.*
+🚀 *Always open to collaboration, learning, and exciting opportunities.*
+
 
 
 
