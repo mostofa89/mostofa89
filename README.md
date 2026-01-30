@@ -35,19 +35,23 @@ I love designing systems, solving problems, and learning cutting-edge technologi
 
 <div align="center">
 
-### 💻 Languages
+## 💻 Languages
 <img height="60" src="https://skillicons.dev/icons?i=python,js,java,html,css" />
 
-### 🎨 Frontend
+## 🎨 Frontend
 <img height="60" src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
 
-### 🧠 Backend
+## 🧠 Backend & API
 <img height="60" src="https://skillicons.dev/icons?i=django" />
+<br/>
+<img height="50" src="https://img.shields.io/badge/REST%20API-0d1117?style=for-the-badge&logo=fastapi&logoColor=white" />
 
-### 🗄️ Databases
+## 🗄️ Databases
 <img height="60" src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+<br/>
+<img height="50" src="https://img.shields.io/badge/MariaDB-0d1117?style=for-the-badge&logo=mariadb&logoColor=white" />
 
-### 🛠 Tools
+## 🛠 Tools
 <img height="60" src="https://skillicons.dev/icons?i=git,linux,postman" />
 
 </div>
