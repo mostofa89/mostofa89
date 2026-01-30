@@ -5,7 +5,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&multiline=false&repeat=true&width=850&height=100&lines=🚀+Full-Stack+Web+Developer;💡+Django+%7C+React+%7C+REST+APIs;📊+Data+Science+%7C+ML+Libraries;🔧+NumPy+%7C+Pandas+%7C+Matplotlib;✨+Turning+Ideas+Into+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&multiline=false&repeat=true&width=850&lines=Full-Stack+Web+Developer;Django+%7C+React+%7C+REST+APIs;Data+Science+%7C+ML+Libraries;NumPy+%7C+Pandas+%7C+Matplotlib;Turning+Ideas+Into+Reality" alt="Typing SVG" />
 </p>
 
 <p align="center">
