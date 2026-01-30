@@ -1,127 +1,152 @@
-<h1 align="center">
-  🌌 Abu Hena Mostofa Kamal Joy
-</h1>
+<div align="center">
 
-<h3 align="center">
-  <em>Dreaming in Code · Building the Future · Learning Without Limits</em>
-</h3>
+# 👋 Hi, I'm Md. Abu Hena Mostofa Kamal Joy
 
-<p align="center">
-  🇧🇩 Bangladesh &nbsp;•&nbsp; Aspiring Software Engineer &nbsp;•&nbsp; AI & ML Enthusiast
-</p>
+### 💻 Passionate Full-Stack Developer from Bangladesh 🇧🇩
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mostofa89&label=Visitors&color=7f5af0&style=for-the-badge"/>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Django+%7C+React+Enthusiast;Problem+Solver;Always+Learning+New+Things" alt="Typing SVG" />
+
+[![Profile Views](https://komarev.com/ghpvc/?username=mostofa89&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/mostofa89)
+
+</div>
 
 ---
 
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;AI+%26+Machine+Learning+Explorer;Full-Stack+Developer;Problem+Solver+by+Passion;Forever+Learning+%E2%9C%A8"
-    alt="Typing SVG"
-  />
-</p>
+## 🚀 About Me
+
+- 🔭 I'm working on **Full-Stack Web Development**
+- 🌱 Currently learning **Advanced React & Django**
+- 💡 I love exploring **new technologies** and building **innovative solutions**
+- 🎯 Goal: Contributing to **open-source projects**
+- ⚡ Fun fact: **I debug with coffee ☕**
 
 ---
 
-## ✦ About Me ✦
+## 🌐 Connect with Me
 
-> *I believe code is more than logic—  
-> it is creativity, discipline, and imagination combined.*
+<div align="center">
 
-- 🌱 Passionate about **Software Engineering, AI & Machine Learning**
-- 🧠 Strong foundation in **Data Structures & Algorithms**
-- 🛠️ Love building **real-world projects** with Django & modern web tech
-- 🎯 Long-term goal: **FAANG-level engineer & impactful innovator**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mostofa-kamal-joy-636b89260)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/mostofa.kamal.934728)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/mostofakamal4689)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/mostofakamaljoy)
 
----
-
-## ✧ Connect With Me ✧
-<p align="center">
-  <a href="https://linkedin.com/in/mostofa-kamal-joy-636b89260">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="38"/>
-  </a>
-  <a href="https://fb.com/mostofa.kamal.934728">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="38"/>
-  </a>
-  <a href="https://instagram.com/mostofakamal.joy">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="38"/>
-  </a>
-  <a href="https://www.hackerrank.com/mostofakamal4689">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="38"/>
-  </a>
-  <a href="https://leetcode.com/mostofakamaljoy/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="38"/>
-  </a>
-</p>
+</div>
 
 ---
 
-## ✦ Tools & Technologies ✦
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="42"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="42"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="42"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42"/>
-</p>
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
+
+### 🎨 Frontend
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+</div>
+
+### ⚙️ Backend
+<div align="center">
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+</div>
+
+### 🗄️ Databases
+<div align="center">
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
+</div>
+
+### 🧰 Tools & Technologies
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+</div>
 
 ---
 
-## ✧ GitHub Cosmos ✧
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=mostofa89&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="180"
-  />
-</p>
+## 📊 GitHub Statistics
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostofa89&layout=compact&theme=tokyonight&hide_border=true" 
-    height="160"
-  />
-</p>
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mostofa89&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mostofa89&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
----
+</div>
 
-## ✦ Achievements ✦
-<p align="center">
-  <img src="https://img.shields.io/badge/Problems%20Solved-500%2B-7f5af0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LeetCode-Active-fbbf24?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/HackerRank-5%E2%AD%90-22c55e?style=for-the-badge"/>
-</p>
+<div align="center">
+  
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostofa89&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+</div>
 
 ---
 
-## ✧ Contribution Flow ✧
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=mostofa89&theme=tokyo-night&hide_border=true"
-  />
-</p>
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=mostofa89&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
+
+</div>
 
 ---
 
-<h3 align="center">✦ Philosophy ✦</h3>
+## 📈 Contribution Graph
 
-<p align="center">
-  <em>
-    Code softly.  
-    Learn deeply.  
-    Build fearlessly.  
-    Grow endlessly.
-  </em>
-</p>
+<div align="center">
 
-<p align="center">
-  🌠 Always open to collaboration, ideas, and meaningful opportunities.
-</p>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mostofa89&theme=tokyo-night&hide_border=true)](https://github.com/mostofa89)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Quote of the Day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🐍 Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/mostofa89/mostofa89/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Show some love by starring my repositories!
+
+**"Code is like humor. When you have to explain it, it's bad."** – Cory House
+
+</div>
+
+---
+
+<div align="center">
+  
+Made with ❤️ by [Mostofa Kamal Joy](https://github.com/mostofa89)
+
+</div>
