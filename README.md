@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Mostofa%20Kamal%20Joy&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Mostofa%20Kamal%20Joy&fontSize=48&fontColor=ffffff&animation=fadeIn" />
 
-### 🚀 Full-Stack Developer | Django & React | Problem Solver 🇧🇩
+<br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Django+%7C+React+%7C+REST+API;Building+Scalable+Systems;Turning+Ideas+Into+Reality" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Django+%7C+React+%7C+REST+API;Building+Scalable+Web+Systems;Turning+Ideas+Into+Products" />
 
-<img src="https://komarev.com/ghpvc/?username=mostofa89&style=for-the-badge&color=7AA2F7" />
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=mostofa89&style=for-the-badge&color=2563eb" />
 
 </div>
 
@@ -14,93 +16,92 @@
 
 ## 🌌 About Me
 
-I’m a passionate **Full-Stack Developer** specializing in building scalable, secure, and high-performance web applications.  
-I love designing systems, solving complex problems, and continuously improving my technical skills.
+<div align="center">
 
-- 💻 Tech Focus: **Django, React, REST APIs**
-- 🧠 Interests: **System Design, Algorithms, AI**
-- 🚀 Goal: Build impactful real-world products
-- ☕ Fun Fact: I debug better with coffee
+I am a **Full-Stack Developer** focused on building scalable, secure, and elegant web applications.  
+I love designing systems, solving problems, and learning cutting-edge technologies.
 
----
-
-## 🧬 Tech Universe
+</div>
 
 <div align="center">
 
-### ⚙️ Core Technologies
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=7AA2F7)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+🚀 Django & React &nbsp;&nbsp;|&nbsp;&nbsp; 🧠 Algorithms & System Design &nbsp;&nbsp;|&nbsp;&nbsp; 🌍 Open Source &nbsp;&nbsp;|&nbsp;&nbsp; ☕ Coffee Lover
+
+</div>
+
+---
+
+# ⚙️ Tech Stack
+
+<div align="center">
+
+### 💻 Languages
+<img height="60" src="https://skillicons.dev/icons?i=python,js,java,html,css" />
 
 ### 🎨 Frontend
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+<img height="60" src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
 
 ### 🧠 Backend
-![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=22c55e)
+<img height="60" src="https://skillicons.dev/icons?i=django" />
 
 ### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=316192)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
+<img height="60" src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 
 ### 🛠 Tools
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37)
+<img height="60" src="https://skillicons.dev/icons?i=git,linux,postman" />
 
 </div>
 
 ---
 
-## 📊 GitHub Insights
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mostofa89&show_icons=true&theme=tokyonight&hide_border=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mostofa89&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mostofa89&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mostofa89&theme=tokyonight&hide_border=true" />
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostofa89&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostofa89&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🌍 Connect With Me
+# 🌍 Connect With Me
 
 <div align="center">
 
 <a href="https://linkedin.com/in/mostofa-kamal-joy-636b89260">
-<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+<img height="55" src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="https://fb.com/mostofa.kamal.934728">
-<img src="https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=1877F2" />
+<img height="55" src="https://skillicons.dev/icons?i=facebook" />
 </a>
 
 <a href="https://www.hackerrank.com/mostofakamal4689">
-<img src="https://img.shields.io/badge/HackerRank-0d1117?style=for-the-badge&logo=hackerrank&logoColor=2EC866" />
+<img height="55" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
 </a>
 
 <a href="https://www.leetcode.com/mostofakamaljoy">
-<img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+<img height="55" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
 </div>
 
 ---
 
-## 🧠 Philosophy
+## ✨ Developer Mindset
 
 <div align="center">
 
-> “Code is not just instructions for machines — it’s a language for solving human problems.”
+> “Great software is built with clarity, consistency, and curiosity.”
 
 </div>
 
@@ -108,9 +109,8 @@ I love designing systems, solving complex problems, and continuously improving m
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=120&section=footer" />
 
-✨ Crafted with passion by **Mostofa Kamal Joy**
+💙 Designed with passion by **Mostofa Kamal Joy**
 
 </div>
-
