@@ -110,10 +110,12 @@ skills: ["Django", "React", "AWS", "NumPy", "Pandas", "Matplotlib", "Seaborn"]
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h2 align="center">🏆 GitHub Highlights</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mostofa89&theme=algolia&no-frame=false&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://img.shields.io/badge/%F0%9F%8F%86-Open%20Source%20Contributor-8B5CF6?style=for-the-badge" alt="Open Source Contributor" />
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80-Problem%20Solver-00C7B7?style=for-the-badge" alt="Problem Solver" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%88-Consistent%20Builder-FE7A16?style=for-the-badge" alt="Consistent Builder" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
