@@ -24,15 +24,16 @@
 ```yaml
 name: Mostofa Kamal Joy
 role: Full-Stack Developer & Data Enthusiast
-focus: ["Web Applications", "System Design", "APIs", "Data Analysis"]
+focus: ["Web Applications", "System Design", "APIs", "Data Analysis", "Cloud Solutions"]
 passion: "Building scalable, secure, and elegant solutions"
 motto: "Code with purpose, design with vision"
-skills: ["Django", "React", "NumPy", "Pandas", "Matplotlib", "Seaborn"]
+skills: ["Django", "React", "AWS", "NumPy", "Pandas", "Matplotlib", "Seaborn"]
 ```
 
 <p align="center">
   <img src="https://img.shields.io/badge/🚀-Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/⚛️-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/☁️-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/🔌-REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/🐘-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/🍃-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -92,13 +93,14 @@ skills: ["Django", "React", "NumPy", "Pandas", "Matplotlib", "Seaborn"]
 ### 🛠️ Development Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode,docker,aws" />
 </p>
 
 <br/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
@@ -119,30 +121,20 @@ skills: ["Django", "React", "NumPy", "Pandas", "Matplotlib", "Seaborn"]
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mostofa89&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=mostofa89&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mostofa89&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=mostofa89&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostofa89&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mostofa89&theme=tokyonight" alt="Top Languages" width="75%" />
 </div>
 
 <br/>
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mostofa89&custom_title=Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mostofa89/mostofa89/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mostofa89/mostofa89/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mostofa89/mostofa89/output/github-contribution-grid-snake.svg">
-  </picture>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
