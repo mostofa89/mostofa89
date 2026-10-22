@@ -6,10 +6,6 @@
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=mostofa89&amp;style=for-the-badge&amp;color=1f6feb&amp;label=PROFILE+VIEWS" alt="Profile views counter" />
-<a href="https://github.com/mostofa89?tab=followers"><img src="https://img.shields.io/github/followers/mostofa89?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;label=FOLLOWERS&amp;color=1f6feb" alt="GitHub followers" /></a>
-<a href="https://github.com/mostofa89?tab=repositories"><img src="https://img.shields.io/github/stars/mostofa89?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;label=STARS&amp;color=1f6feb" alt="GitHub stars" /></a>
-
 </div>
 
 <div align="center"><img src="https://raw.githubusercontent.com/mostofa89/mostofa89/main/assets/divider.svg" width="100%" alt="Animated blue circuit divider" /></div>
