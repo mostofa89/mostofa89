@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="1200" height="120" role="img" aria-label="Constellation connecting four featured projects">
+<rect width="1200" height="120" rx="12" fill="#0d1117"/>
+<g stroke="#1f6feb" stroke-width="1.5" opacity="0.6">
+<line x1="150" y1="70" x2="450" y2="40"/>
+<line x1="450" y1="40" x2="750" y2="80"/>
+<line x1="750" y1="80" x2="1050" y2="45"/>
+</g>
+<circle cx="150" cy="70" r="8" fill="#38bdf8"><animate attributeName="r" values="6;10;6" dur="3s" begin="0.0s" repeatCount="indefinite"/></circle>
+<text x="150" y="104" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#c9d1d9">Cartify</text>
+<circle cx="450" cy="40" r="8" fill="#38bdf8"><animate attributeName="r" values="6;10;6" dur="3s" begin="0.6s" repeatCount="indefinite"/></circle>
+<text x="450" y="74" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#c9d1d9">NIDS Thesis</text>
+<circle cx="750" cy="80" r="8" fill="#38bdf8"><animate attributeName="r" values="6;10;6" dur="3s" begin="1.2s" repeatCount="indefinite"/></circle>
+<text x="750" y="114" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#c9d1d9">Road Accident ML</text>
+<circle cx="1050" cy="45" r="8" fill="#38bdf8"><animate attributeName="r" values="6;10;6" dur="3s" begin="1.7999999999999998s" repeatCount="indefinite"/></circle>
+<text x="1050" y="79" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#c9d1d9">T20 Score Model</text>
+</svg>

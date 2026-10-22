@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 24" width="1200" height="24" role="img" aria-label="Circuit divider">
+<path d="M0 12 H420 L440 4 H760 L780 12 H1200" fill="none" stroke="#1f6feb" stroke-width="1.5" opacity="0.45"/>
+<path d="M0 12 H420 L440 4 H760 L780 12 H1200" fill="none" stroke="#38bdf8" stroke-width="2" stroke-dasharray="60 1140" stroke-linecap="round">
+<animate attributeName="stroke-dashoffset" from="1200" to="-60" dur="4s" repeatCount="indefinite"/></path>
+<circle cx="440" cy="4" r="3" fill="#38bdf8"/><circle cx="760" cy="4" r="3" fill="#38bdf8"/>
+<circle cx="600" cy="4" r="3" fill="#1f6feb"><animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/></circle>
+</svg>
