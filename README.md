@@ -1,115 +1,81 @@
-<!--
-  GitHub Profile README
-  Modern dark / violet / cyan theme
-  Replace or remove any section that does not reflect your current work.
--->
 
+<!-- ═══════════════════════════════════════════════════════════════════════ --> <!--                         MOSTOFA KAMAL JOY                              --> <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <div align="center">
-
-<a href="https://github.com/mostofa89">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0B1020,45:312E81,100:06B6D4&text=Mostofa%20Kamal%20Joy&fontColor=FFFFFF&fontSize=48&fontAlignY=42&desc=Full-Stack%20Developer%20%7C%20Data%20Science%20Enthusiast&descSize=16&descAlignY=62&animation=fadeIn" alt="Mostofa Kamal Joy — Full-Stack Developer and Data Science Enthusiast" width="100%" />
-</a>
+<a href="https://github.com/mostofa89"> <img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=MOSTOFA%20KAMAL%20JOY&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20DATA%20SCIENCE%20ENTHUSIAST&descAlignY=60&descSize=14&animation=fadeIn&color=0:0F172A,45:312E81,100:06B6D4" width="100%" alt="Mostofa Kamal Joy — Full-Stack Developer and Data Science Enthusiast" /> </a>
 
 
-<a href="https://github.com/mostofa89">
-  <img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://linkedin.com/in/mostofa-kamal-joy-636b89260">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://www.hackerrank.com/mostofakamal4689">
-  <img src="https://img.shields.io/badge/HackerRank-Practice-16A34A?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank" />
-</a>
-<a href="https://www.leetcode.com/mostofakamaljoy">
-  <img src="https://img.shields.io/badge/LeetCode-Solve%20problems-F59E0B?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" />
-</a>
+<a href="https://github.com/mostofa89"><img src="https://img.shields.io/badge/GITHUB-151827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> <a href="https://linkedin.com/in/mostofa-kamal-joy-636b89260"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://www.hackerrank.com/mostofakamal4689"><img src="https://img.shields.io/badge/HACKERRANK-168A4A?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a> <a href="https://www.leetcode.com/mostofakamaljoy"><img src="https://img.shields.io/badge/LEETCODE-D99000?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
 
+
+
+<table> <tr> <td>🧩 <strong>BUILD</strong></td> <td>🧠 <strong>LEARN</strong></td> <td>📊 <strong>MEASURE</strong></td> <td>🔁 <strong>ITERATE</strong></td> </tr> </table>
 </div>
 
-whoami 👋
-I'm Mostofa Kamal Joy — a developer who enjoys turning ideas into practical, reliable software. I work across web development and data science, exploring how clean engineering, thoughtful design, and data-driven thinking can solve real problems.
-- 🧩 Building: Web applications, APIs, and data-driven projects
-- 🧠 Exploring: Machine learning, data analysis, and cloud technologies
-- 🛠️ Core tools: Python, Django, React, SQL, and AWS
-- 🌱 Mindset: Learn continuously. Build thoughtfully. Improve every day.
-Code with purpose. Design with vision.
 
-⚡ Technology toolkit
+~/about-me
+<table> <tr> <td width="60%" valign="top"> <h3>Hey, I'm Mostofa 👋</h3> <p> I turn ideas into practical, reliable software. My work lives where <strong>web engineering</strong>, <strong>data</strong>, and <strong>curiosity</strong> meet — from clean APIs and useful interfaces to experiments that make data easier to understand. </p> <blockquote><strong>Code with purpose. Design with vision.</strong></blockquote> </td> <td width="40%" valign="top"> <pre><code>const developer = { name: "Mostofa Kamal Joy", focus: ["Web", "Data", "ML"], mindset: "build → learn → improve", status: "always exploring ✨" };</code></pre> </td> </tr> </table>
+
+
+./toolbox --list
 <div align="center">
+01 · LANGUAGES	02 · BUILDING	03 · DATA	04 · INFRASTRUCTURE
+Python · JavaScript Java · HTML · CSS	React · Tailwind Django · FastAPI · Bootstrap	NumPy · Pandas scikit-learn · Matplotlib · Seaborn	PostgreSQL · MySQL · MongoDB Git · Docker · AWS · Nginx
 
-Languages
-<img src="https://skillicons.dev/icons?i=python,js,java,html,css&theme=dark" alt="Python, JavaScript, Java, HTML, CSS" />
 
-Frontend & backend
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,django,fastapi&theme=dark" alt="React, Tailwind CSS, Bootstrap, Django, FastAPI" />
-
-Data & databases
-<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,postgres,mysql,mongodb&theme=dark" alt="NumPy, Pandas, scikit-learn, PostgreSQL, MySQL, MongoDB" />
-
-Developer tools & cloud
-<img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode,docker,aws,nginx&theme=dark" alt="Git, GitHub, Linux, Postman, VS Code, Docker, AWS, Nginx" />
-
+<img src="https://skillicons.dev/icons?i=python,js,java,html,css,react,tailwind,django,fastapi,numpy,pandas,sklearn,postgres,mysql,mongodb,git,github,linux,docker,aws,nginx&perline=11&theme=dark" alt="Technology stack: Python, JavaScript, Java, HTML, CSS, React, Tailwind CSS, Django, FastAPI, NumPy, Pandas, scikit-learn, PostgreSQL, MySQL, MongoDB, Git, GitHub, Linux, Docker, AWS, Nginx" />
 </div>
-
-<details>
-<summary><strong>More tools and technologies</strong></summary>
+<details> <summary><strong>▸ Open the extended toolbox</strong></summary>
 
 
-- Data visualization: Matplotlib, Seaborn
-- APIs & security: REST APIs, JWT
-- Databases: MariaDB
-- Cloud: Amazon Web Services (AWS)
+Web & APIs: REST APIs, JWT, Django REST Framework
+Databases: PostgreSQL, MySQL, MongoDB, MariaDB
+Visualization: Matplotlib, Seaborn
+Cloud & delivery: Amazon Web Services, Docker, Nginx
 </details>
 
-📊 GitHub at a glance
+
+git log --oneline --stats
 <div align="center">
-
-<a href="https://github.com/mostofa89">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mostofa89&theme=tokyonight" alt="GitHub statistics" />
-</a>
-<a href="https://github.com/mostofa89">
-  <img height="165" src="https://streak-stats.demolab.com?user=mostofa89&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub contribution streak" />
-</a>
+<a href="https://github.com/mostofa89"> <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mostofa89&theme=tokyonight" alt="GitHub statistics" /> </a> <a href="https://github.com/mostofa89"> <img height="165" src="https://streak-stats.demolab.com?user=mostofa89&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub contribution streak" /> </a>
 
 
-<a href="https://github.com/mostofa89">
-  <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mostofa89&theme=tokyonight" alt="Languages used across repositories" />
-</a>
+
+<a href="https://github.com/mostofa89"> <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mostofa89&theme=tokyonight" alt="Languages used across repositories" /> </a>
 
 
-<a href="https://github.com/mostofa89">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mostofa89&bg_color=0D1117&color=8B5CF6&line=06B6D4&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
-</a>
 
+<a href="https://github.com/mostofa89"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mostofa89&bg_color=0D1117&color=8B5CF6&line=06B6D4&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" /> </a>
+<sub>GitHub statistics are generated by third-party services and may occasionally be unavailable or delayed.</sub>
 </div>
 
-<sub>Note: GitHub statistics are generated by third-party services and may occasionally be unavailable or delayed.</sub>
-🧭 How I build
+
+principles.md
 <div align="center">
-
-Principle	What it means to me
-Clarity over cleverness	Write code that is easy to read, test, and maintain.
-Data-informed decisions	Use evidence to understand problems and evaluate solutions.
-Build, then improve	Start with a useful foundation and refine it through feedback.
-Keep learning	Treat every project as a chance to strengthen my skills.
-
-
+<table> <tr> <td align="center">💎
+<strong>Clarity</strong>
+<sub>Prefer readable code over clever code.</sub></td> <td align="center">📈
+<strong>Evidence</strong>
+<sub>Let data guide decisions.</sub></td> <td align="center">🛠️
+<strong>Progress</strong>
+<sub>Build a useful foundation, then improve it.</sub></td> <td align="center">🌱
+<strong>Growth</strong>
+<sub>Every project is a chance to learn.</sub></td> </tr> </table>
 </div>
 
-🌐 Find me online
+
 <div align="center">
+ping -c 1 mostofa89
+<a href="https://github.com/mostofa89">GitHub</a>  •  <a href="https://linkedin.com/in/mostofa-kamal-joy-636b89260">LinkedIn</a>  •  <a href="https://www.hackerrank.com/mostofakamal4689">HackerRank</a>  •  <a href="https://www.leetcode.com/mostofakamaljoy">LeetCode</a>
 
 
 
+<img src="https://komarev.com/ghpvc/?username=mostofa89&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
 
 
 
-
-
-<img src="https://komarev.com/ghpvc/?username=mostofa89&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
-
+<em>“The best way to predict the future is to create it.”</em>
 
 
 
-“The best way to predict the future is to create it.”
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:06B6D4,50:312E81,100:0F172A" width="100%" alt="" />
 </div>
