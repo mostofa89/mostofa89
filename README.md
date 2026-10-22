@@ -1,249 +1,207 @@
-<!-- Aurora Circuit GitHub Profile README | Replace project repository placeholders before publishing. -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:07111F,38:312E81,72:22D3EE,100:FB7185&text=Mostofa%20Kamal%20Joy&fontColor=FFFFFF&fontSize=48&fontAlignY=40&desc=Code%20with%20purpose%2C%20design%20with%20vision&descSize=16&descAlignY=62&animation=twinkling&section=header" width="100%" alt="Aurora navy, violet, cyan, and coral animated header for Mostofa Kamal Joy" />
+<img src="https://raw.githubusercontent.com/mostofa89/mostofa89/main/assets/neural-header.svg" width="100%" alt="Animated neural network banner introducing Mostofa Kamal Joy" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1100&color=A78BFA&center=true&vCenter=true&width=780&height=55&lines=Full-Stack+Developer;Data+Enthusiast;Network+Security+Researcher;Building+useful+things+with+thoughtful+engineering" alt="Typing animation cycling through my roles and interests" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&height=45&lines=Full-Stack%20Developer;Django%20%7C%20React%20%7C%20REST%20APIs;Data%20Science%20%7C%20ML%20%7C%20PyTorch;Network%20Security%20Research;Building%20Scalable%20Systems" width="900" alt="Typing animation showing Joy's roles and focus areas" /></a>
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=mostofa89&style=for-the-badge&color=A78BFA&label=PROFILE%20VIEWS" alt="Profile views counter" />
-<a href="https://github.com/mostofa89?tab=followers"><img src="https://img.shields.io/github/followers/mostofa89?style=for-the-badge&logo=github&label=FOLLOWERS&color=22D3EE" alt="GitHub followers" /></a>
-<a href="https://github.com/mostofa89?tab=repositories"><img src="https://img.shields.io/github/stars/mostofa89?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=STARS&color=FB7185" alt="GitHub stars" /></a>
+<img src="https://komarev.com/ghpvc/?username=mostofa89&style=for-the-badge&color=1f6feb&label=PROFILE%20VIEWS" width="150" alt="Profile views counter" />
+<a href="https://github.com/mostofa89?tab=followers"><img src="https://img.shields.io/github/followers/mostofa89?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=1f6feb" width="145" alt="GitHub followers" /></a>
+<a href="https://github.com/mostofa89?tab=repositories"><img src="https://img.shields.io/github/stars/mostofa89?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&logoColor=white&label=STARS&color=1f6feb" width="120" alt="GitHub stars" /></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:A78BFA,50:22D3EE,100:FB7185" width="100%" alt="Violet, cyan, and coral section divider" />
-
-## ✦ About Me
-
-Hey, I’m **Abu Hena Mostofa Kamal Joy** — most people call me **Joy**. I’m a Full-Stack Developer, Data Enthusiast, and Network Security Researcher, currently pursuing a **B.Sc. in Computer Science and Engineering at BRAC University**. I enjoy building web applications and APIs, exploring system design, learning from data, and researching security for connected systems.
-
-> **Code with purpose, design with vision.**
+<div align="center"><img src="https://raw.githubusercontent.com/mostofa89/mostofa89/main/assets/divider.svg" width="100%" alt="Animated blue circuit divider" /></div>
 
 <div align="center">
 
-| `system.info` | Details |
-|:--|:--|
-| **Handle** | Joy · [@mostofa89](https://github.com/mostofa89) |
-| **Role** | Full-Stack Developer · Data Enthusiast · Network Security Researcher |
-| **Education** | B.Sc. in Computer Science and Engineering · BRAC University |
-| **Focus** | Web Applications · System Design · APIs · Data Analysis · Cloud · Network Security Research |
-| **Currently** | Building, experimenting, and learning one project at a time |
+## About Me
+
+<table><tr><td>
+
+I’m **Abu Hena Mostofa Kamal Joy** — a **Full-Stack Developer, Data Enthusiast, and Network Security Researcher** pursuing a **B.Sc. in Computer Science and Engineering at BRAC University**. I build web applications and APIs, explore system design and data, and study security for connected systems.
+
+**What drives me:** *“Code with purpose, design with vision.”* I aim to make complex ideas clear, useful, and thoughtfully engineered while continuing to learn through practical projects and research.
+
+</td></tr></table>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:A78BFA,50:22D3EE,100:FB7185" width="100%" alt="Violet, cyan, and coral section divider" />
-
-## ✧ Tech Stack
+<div align="center"><img src="https://raw.githubusercontent.com/mostofa89/mostofa89/main/assets/divider.svg" width="100%" alt="Animated blue circuit divider" /></div>
 
 <div align="center">
 
-**LANGUAGES**  
-<img src="https://skillicons.dev/icons?i=python,js,java,html,css&theme=dark" alt="Python, JavaScript, Java, HTML, and CSS icons" width="310" />
+## Featured Projects
 
-**FRONTEND**  
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap&theme=dark" alt="React, Tailwind CSS, and Bootstrap icons" width="190" />
-
-**BACKEND & API**  
-<img src="https://skillicons.dev/icons?i=django,fastapi&theme=dark" alt="Django and FastAPI icons" width="125" />
-<br />
-<img src="https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework badge" />
-<img src="https://img.shields.io/badge/JWT%20Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT authentication badge" />
-
-**DATABASES**  
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" alt="MySQL, PostgreSQL, and MongoDB icons" width="190" />
-<br />
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB badge" />
-
-**DATA SCIENCE**  
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy badge" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas badge" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib badge" />
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn badge" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn badge" />
-
-**CLOUD · DEVOPS · TOOLS**  
-<img src="https://skillicons.dev/icons?i=aws,docker,nginx,linux,git,vscode,postman,github&theme=dark" alt="AWS, Docker, Nginx, Linux, Git, VS Code, Postman, and GitHub icons" width="490" />
-<br />
-<img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" alt="Amazon EC2 badge" />
-<img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="Amazon S3 badge" />
-<img src="https://img.shields.io/badge/AWS%20IAM-DD344C?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS IAM badge" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:A78BFA,50:22D3EE,100:FB7185" width="100%" alt="Violet, cyan, and coral section divider" />
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
+<table><tr>
 <td width="50%" valign="top">
-<h3>🛍️ Cartify</h3>
-<p>A multi-vendor eCommerce platform with a glassmorphism interface and immersive 3D design.</p>
-<a href="https://github.com/mostofa89/CARTIFY-REPO"><img src="https://img.shields.io/badge/Explore%20project-A78BFA?style=for-the-badge&logo=github&logoColor=white" alt="Explore Cartify repository" /></a>
-<br /><br />
-<img src="https://img.shields.io/badge/Django%20%2F%20DRF-092E20?style=flat-square&logo=django&logoColor=white" alt="Django and Django REST Framework" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+
+### 🛍️ Cartify
+Multi-vendor eCommerce platform with a glassmorphism interface and immersive 3D design.
+
+**Impact**
+- Brings multi-vendor commerce and a 3D-focused interface into one platform.
+- Demonstrates full-stack integration across frontend, backend, and API layers.
+
+**Tech Stack**  
+<img src="https://img.shields.io/badge/Django%20%2F%20DRF-092E20?style=flat-square&logo=django&logoColor=white" width="120" alt="Django and Django REST Framework" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" width="70" alt="React" /> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" width="105" alt="Tailwind CSS" />
+
+<br /><a href="https://github.com/mostofa89/REPO-NAME"><img src="https://img.shields.io/badge/View%20repository-1f6feb?style=for-the-badge&logo=github&logoColor=white" width="155" alt="View Cartify repository" /></a>
+
 </td>
 <td width="50%" valign="top">
-<h3>🛡️ NIDS Thesis</h3>
-<p>A literature review of a hybrid Artificial Immune System and Reinforcement Learning framework for intrusion detection in fog and IoT environments.</p>
-<a href="https://github.com/mostofa89/NIDS-THESIS-REPO"><img src="https://img.shields.io/badge/Explore%20project-A78BFA?style=for-the-badge&logo=github&logoColor=white" alt="Explore NIDS thesis repository" /></a>
-<br /><br />
-<img src="https://img.shields.io/badge/Network%20Security-07111F?style=flat-square&logo=datadog&logoColor=22D3EE" alt="Network security research" />
-<img src="https://img.shields.io/badge/Artificial%20Immune%20Systems-312E81?style=flat-square" alt="Artificial Immune Systems" />
-<img src="https://img.shields.io/badge/Reinforcement%20Learning-22D3EE?style=flat-square" alt="Reinforcement Learning" />
+
+### 🛡️ NIDS Thesis
+Literature review of a hybrid Artificial Immune System and Reinforcement Learning framework for intrusion detection in fog and IoT environments.
+
+**Impact**
+- Examines a hybrid approach to intrusion detection in fog and IoT environments.
+- Connects adaptive learning concepts with network security research.
+
+**Tech Stack**  
+<img src="https://img.shields.io/badge/Network%20Security-0d1117?style=flat-square&logo=datadog&logoColor=38bdf8" width="125" alt="Network Security" /> <img src="https://img.shields.io/badge/Artificial%20Immune%20Systems-312e81?style=flat-square" width="145" alt="Artificial Immune Systems" /> <img src="https://img.shields.io/badge/Reinforcement%20Learning-1f6feb?style=flat-square" width="145" alt="Reinforcement Learning" />
+
+<br /><a href="https://github.com/mostofa89/REPO-NAME"><img src="https://img.shields.io/badge/View%20repository-1f6feb?style=for-the-badge&logo=github&logoColor=white" width="155" alt="View NIDS thesis repository" /></a>
+
 </td>
-</tr>
-<tr>
+</tr><tr>
 <td width="50%" valign="top">
-<h3>🚗 US Road Accident Prediction</h3>
-<p>Machine learning exploration using the US Accidents (2016–2023) dataset.</p>
-<a href="https://github.com/mostofa89/US-ROAD-ACCIDENT-PREDICTION-REPO"><img src="https://img.shields.io/badge/Explore%20project-A78BFA?style=for-the-badge&logo=github&logoColor=white" alt="Explore US road accident prediction repository" /></a>
-<br /><br />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+
+### 🚗 US Road Accident Prediction
+Machine learning model and exploration using the US Accidents (2016–2023) dataset.
+
+**Impact**
+- Applies machine learning exploration to a real-world accident dataset.
+- Uses data analysis and model-building workflows for prediction research.
+
+**Tech Stack**  
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" width="75" alt="Pandas" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" width="105" alt="scikit-learn" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" width="80" alt="Jupyter" />
+
+<br /><a href="https://github.com/mostofa89/REPO-NAME"><img src="https://img.shields.io/badge/View%20repository-1f6feb?style=for-the-badge&logo=github&logoColor=white" width="155" alt="View US road accident prediction repository" /></a>
+
 </td>
 <td width="50%" valign="top">
-<h3>🏏 T20 Cricket Score Prediction</h3>
-<p>A cricket score prediction project built with a Linear Regression model.</p>
-<a href="https://github.com/mostofa89/T20-CRICKET-SCORE-PREDICTION-REPO"><img src="https://img.shields.io/badge/Explore%20project-A78BFA?style=for-the-badge&logo=github&logoColor=white" alt="Explore T20 cricket score prediction repository" /></a>
-<br /><br />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-<img src="https://img.shields.io/badge/Linear%20Regression-FB7185?style=flat-square" alt="Linear Regression" />
+
+### 🏏 T20 Cricket Score Prediction
+Linear Regression model built with scikit-learn for cricket score prediction.
+
+**Impact**
+- Demonstrates a focused regression workflow for cricket score prediction.
+- Applies scikit-learn to a sports analytics use case.
+
+**Tech Stack**  
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" width="105" alt="scikit-learn" /> <img src="https://img.shields.io/badge/Linear%20Regression-1f6feb?style=flat-square" width="120" alt="Linear Regression" />
+
+<br /><a href="https://github.com/mostofa89/REPO-NAME"><img src="https://img.shields.io/badge/View%20repository-1f6feb?style=for-the-badge&logo=github&logoColor=white" width="155" alt="View T20 cricket score prediction repository" /></a>
+
 </td>
-</tr>
-</table>
+</tr></table>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:A78BFA,50:22D3EE,100:FB7185" width="100%" alt="Violet, cyan, and coral section divider" />
-
-## 🌌 Working On · Learning · Researching
+<div align="center"><img src="https://raw.githubusercontent.com/mostofa89/mostofa89/main/assets/divider.svg" width="100%" alt="Animated blue circuit divider" /></div>
 
 <div align="center">
 
-| ✨ AREA | 🔭 CURRENT ORBIT |
-|:--|:--|
-| **Building** | Full-stack web applications, dependable APIs, and scalable system designs |
-| **Learning** | Cloud architecture, data analysis workflows, and practical machine learning |
-| **Researching** | Network intrusion detection for fog and IoT, including hybrid AIS + RL approaches |
-| **Improving** | Secure deployment practices with AWS, Docker, Linux, and Nginx |
+## Tech Stack
+
+<table><tr><td align="center"><strong>Frontend Development</strong><br /><img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap&theme=dark" width="180" alt="React, Tailwind CSS, and Bootstrap" /></td><td align="center"><strong>Backend Development</strong><br /><img src="https://skillicons.dev/icons?i=django,fastapi&theme=dark" width="125" alt="Django and FastAPI" /><br /><img src="https://img.shields.io/badge/DRF%20%7C%20JWT-1f6feb?style=flat-square&logoColor=white" width="105" alt="Django REST Framework and JWT authentication" /></td></tr>
+<tr><td align="center"><strong>Database &amp; DevOps</strong><br /><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,mariadb,aws,nginx,docker,linux,git&theme=dark" width="430" alt="MySQL, PostgreSQL, MongoDB, MariaDB, AWS, Nginx, Docker, Linux, and Git" /></td><td align="center"><strong>Data Science &amp; ML</strong><br /><img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" width="105" alt="Python and PyTorch" /><br /><img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" width="75" alt="NumPy" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" width="75" alt="Pandas" /><br /><img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" width="95" alt="Matplotlib" /> <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" width="85" alt="Seaborn" /><br /><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" width="105" alt="scikit-learn" /></td></tr></table>
+
+<br />**Tools:** VS Code · Postman · GitHub
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:A78BFA,50:22D3EE,100:FB7185" width="100%" alt="Violet, cyan, and coral section divider" />
-
-## 📊 GitHub Stats
+<div align="center"><img src="https://raw.githubusercontent.com/mostofa89/mostofa89/main/assets/divider.svg" width="100%" alt="Animated blue circuit divider" /></div>
 
 <div align="center">
 
-<a href="https://github.com/mostofa89"><img height="180" src="https://github-readme-stats.vercel.app/api?username=mostofa89&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&bg_color=07111F&title_color=A78BFA&icon_color=22D3EE&text_color=E2E8F0" alt="GitHub statistics for Mostofa Kamal Joy" /></a>
-<a href="https://github.com/mostofa89"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostofa89&layout=compact&hide_border=true&theme=github_dark&bg_color=07111F&title_color=A78BFA&text_color=E2E8F0" alt="Most used programming languages in my public repositories" /></a>
+## GitHub Analytics
 
-<a href="https://github.com/mostofa89"><img width="75%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mostofa89&theme=github_dark" alt="GitHub profile contribution summary" /></a>
+<a href="https://github.com/mostofa89"><img height="180" src="https://github-readme-stats.vercel.app/api?username=mostofa89&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=38bdf8&icon_color=1f6feb&text_color=c9d1d9" width="490" alt="GitHub statistics for Mostofa Kamal Joy" /></a>
+<a href="https://github.com/mostofa89"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostofa89&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" width="330" alt="Most used programming languages" /></a>
+
+<br /><a href="https://github.com/mostofa89"><img src="https://streak-stats.demolab.com?user=mostofa89&theme=github-dark-blue&hide_border=true&background=0d1117&ring=38bdf8&fire=1f6feb&currStreakLabel=38bdf8&sideLabels=c9d1d9&dates=8b949e" width="600" alt="GitHub current streak, longest streak, and total contributions" /></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:A78BFA,50:22D3EE,100:FB7185" width="100%" alt="Violet, cyan, and coral section divider" />
-
-## 🌠 Daily Contributions
+<div align="center"><img src="https://raw.githubusercontent.com/mostofa89/mostofa89/main/assets/divider.svg" width="100%" alt="Animated blue circuit divider" /></div>
 
 <div align="center">
 
-<a href="https://github.com/mostofa89"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mostofa89&bg_color=07111F&color=E2E8F0&line=22D3EE&point=FB7185&area=true&area_color=312E81&hide_border=true&custom_title=Daily%20Contribution%20Activity" alt="Daily GitHub contribution activity graph" /></a>
+## Daily Contributions
 
-<a href="https://github.com/mostofa89"><img width="70%" src="https://streak-stats.demolab.com?user=mostofa89&theme=github_dark&hide_border=true&background=07111F&ring=A78BFA&fire=FB7185&currStreakLabel=22D3EE&sideLabels=E2E8F0&dates=94A3B8" alt="GitHub current streak, longest streak, and contribution totals" /></a>
+<a href="https://github.com/mostofa89"><img src="https://github-readme-activity-graph.vercel.app/graph?username=mostofa89&bg_color=0d1117&color=38bdf8&line=1f6feb&point=ffffff&area=true&hide_border=true&custom_title=Daily%20Contribution%20Activity" width="900" alt="Daily GitHub contribution activity graph" /></a>
 
-**Contribution snake** · generated daily by the GitHub Actions workflow below
+<a href="https://github.com/mostofa89"><img src="https://streak-stats.demolab.com?user=mostofa89&theme=github-dark-blue&hide_border=true&background=0d1117&ring=38bdf8&fire=1f6feb&currStreakLabel=38bdf8&sideLabels=c9d1d9&dates=8b949e" width="600" alt="GitHub streak statistics" /></a>
 
+<br /><strong>Contribution snake</strong>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mostofa89/mostofa89/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mostofa89/mostofa89/output/github-contribution-grid-snake.svg" />
-  <img alt="Animated snake traversing my GitHub contribution graph" src="https://raw.githubusercontent.com/mostofa89/mostofa89/output/github-contribution-grid-snake.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/mostofa89/mostofa89/output/github-contribution-grid-snake.svg" width="900" alt="Animated snake traversing the GitHub contribution graph" />
 </picture>
 
 </div>
 
-<details>
-<summary><strong>🐍 Add the snake workflow: .github/workflows/snake.yml</strong></summary>
+<div align="center"><img src="https://raw.githubusercontent.com/mostofa89/mostofa89/main/assets/divider.svg" width="100%" alt="Animated blue circuit divider" /></div>
 
-```yaml
-name: Generate contribution snake
+<div align="center">
 
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
+## Current Focus &amp; Interests
 
-permissions:
-  contents: write
+<table><tr><td align="left">
 
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - name: Generate snake SVGs
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: mostofa89
-          outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%23A78BFA&color_dots=%2307111F%2C%2322D3EE%2C%236366F1%2C%238B5CF6%2C%23FB7185
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23FB7185
-
-      - name: Publish SVGs to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```javascript
+const dev = {
+  focus: ["Web Applications", "System Design", "APIs", "Cloud"],
+  learning: ["Data Analysis", "Machine Learning", "PyTorch"],
+  research: ["Network Security", "Fog and IoT Intrusion Detection"],
+  openTo: ["Projects", "Collaborations", "Thoughtful Engineering"],
+};
 ```
 
-</details>
+</td></tr></table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:A78BFA,50:22D3EE,100:FB7185" width="100%" alt="Violet, cyan, and coral section divider" />
+## Beyond Code
 
-## 🏆 Competitive Programming
-
-<div align="center">
-
-<a href="https://www.hackerrank.com/mostofakamal4689"><img src="https://img.shields.io/badge/HackerRank-View%20profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Visit my HackerRank profile" /></a>
-<a href="https://www.leetcode.com/mostofakamaljoy"><img src="https://img.shields.io/badge/LeetCode-Solve%20with%20me-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="Visit my LeetCode profile" /></a>
+<table><tr><td>🧩<br /><strong>Competitive Programming</strong><br />Practicing structured problem solving.</td><td>📚<br /><strong>Research Reading</strong><br />Exploring security and learning systems.</td><td>🛠️<br /><strong>Side Projects</strong><br />Building useful technical experiments.</td><td>🌱<br /><strong>Learning in Public</strong><br />Sharing the journey through projects.</td></tr></table>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:A78BFA,50:22D3EE,100:FB7185" width="100%" alt="Violet, cyan, and coral section divider" />
-
-## 💫 Connect With Me
+<div align="center"><img src="https://raw.githubusercontent.com/mostofa89/mostofa89/main/assets/divider.svg" width="100%" alt="Animated blue circuit divider" /></div>
 
 <div align="center">
 
-<a href="https://github.com/mostofa89"><img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Connect on GitHub" /></a>
-<a href="https://linkedin.com/in/mostofa-kamal-joy-636b89260"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-<a href="https://fb.com/mostofa.kamal.934728"><img src="https://img.shields.io/badge/Facebook-Find%20me-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Find me on Facebook" /></a>
+## Competitive Programming
+
+<a href="https://www.hackerrank.com/mostofakamal4689"><img src="https://img.shields.io/badge/HackerRank-View%20Profile-1f6feb?style=for-the-badge&logo=hackerrank&logoColor=white" width="190" alt="Visit my HackerRank profile" /></a>
+<a href="https://www.leetcode.com/mostofakamaljoy"><img src="https://img.shields.io/badge/LeetCode-Solve%20With%20Me-38bdf8?style=for-the-badge&logo=leetcode&logoColor=0d1117" width="190" alt="Visit my LeetCode profile" /></a>
+
+## Let's Connect
+
+Always open to discussing new projects, collaborations, or opportunities.
+
+<a href="https://github.com/mostofa89"><img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-161b22?style=for-the-badge&logo=github&logoColor=white" width="175" alt="Connect on GitHub" /></a>
+<a href="https://linkedin.com/in/mostofa-kamal-joy-636b89260"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white" width="175" alt="Connect on LinkedIn" /></a>
+<a href="https://fb.com/mostofa.kamal.934728"><img src="https://img.shields.io/badge/Facebook-Find%20me-38bdf8?style=for-the-badge&logo=facebook&logoColor=0d1117" width="165" alt="Find me on Facebook" /></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:A78BFA,50:22D3EE,100:FB7185" width="100%" alt="Violet, cyan, and coral section divider" />
+<div align="center"><img src="https://raw.githubusercontent.com/mostofa89/mostofa89/main/assets/divider.svg" width="100%" alt="Animated blue circuit divider" /></div>
 
-## 🧭 Developer Philosophy
+<div align="center">
+
+## Developer Philosophy
+
+<table><tr><td align="left">
 
 ```python
 class Developer:
     name = "Mostofa Kamal Joy"
     motto = "Code with purpose, design with vision"
+    tools = ["Python", "Django", "React", "PyTorch", "AWS", "Docker"]
 
     def build(self, idea):
         return self.design(idea).implement().learn().improve()
@@ -258,20 +216,16 @@ class Developer:
         ]
 ```
 
-<div align="center">
+</td></tr></table>
 
-> ✨ *“The best way to predict the future is to create it.”* ✨
+> **“The best way to predict the future is to create it.”**
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0d1117,55:1f6feb,100:38bdf8&section=footer" width="100%" alt="Dark blue waving footer" />
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:FB7185,35:22D3EE,70:312E81,100:07111F&section=footer" width="100%" alt="Coral, cyan, and indigo waving footer" />
-
-**Thanks for stopping by — may your ideas find their orbit.** 🌌
+**Thanks for stopping by — keep building with purpose.**
 
 </div>
 
-<!-- Optional WakaTime: add after setting up WakaTime and generating your public badge URL.
-<a href="https://wakatime.com/@YOUR_WAKATIME_USERNAME"><img src="https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg" alt="Optional WakaTime coding activity" /></a>
+<!-- Optional WakaTime: add your public badge URL after configuring WakaTime.
+<a href="https://wakatime.com/"><img src="https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg" width="250" alt="Optional WakaTime coding activity" /></a>
 -->
