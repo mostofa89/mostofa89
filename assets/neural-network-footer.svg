@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360" role="img" aria-label="Dense animated neural network architecture with input, hidden, and output layers">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#03060f"/><stop offset=".5" stop-color="#0a1830"/><stop offset="1" stop-color="#241a66"/></linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#38bdf8" stop-opacity=".2"/><stop offset=".5" stop-color="#818cf8" stop-opacity=".68"/><stop offset="1" stop-color="#2dd4bf" stop-opacity=".3"/></linearGradient>
+    <radialGradient id="node"><stop stop-color="#fff"/><stop offset=".18" stop-color="#e0f2fe"/><stop offset=".55" stop-color="#38bdf8"/><stop offset="1" stop-color="#2563eb"/></radialGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="soft"><feGaussianBlur stdDeviation="20"/></filter>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#93c5fd" stroke-opacity=".06"/></pattern>
+  </defs>
+  <rect x="8" y="8" width="1184" height="344" rx="24" fill="url(#bg)" stroke="#334a86" stroke-opacity=".75"/>
+  <rect x="8" y="8" width="1184" height="344" rx="24" fill="url(#grid)"/>
+  <ellipse cx="600" cy="175" rx="500" ry="125" fill="#2563eb" opacity=".09" filter="url(#soft)"><animate attributeName="opacity" values=".04;.14;.04" dur="5s" repeatCount="indefinite"/></ellipse>
+  <g fill="#38bdf8" font-family="monospace" font-size="13" letter-spacing="2" text-anchor="middle">
+    <text x="105" y="42">INPUT</text><text x="350" y="42">HIDDEN 1</text><text x="600" y="42">HIDDEN 2</text><text x="850" y="42">HIDDEN 3</text><text x="1095" y="42">OUTPUT</text>
+  </g>
+  <g stroke="url(#edge)" stroke-width="1.2" fill="none">
+    <path d="M105 80L350 65 M105 80L350 105 M105 80L350 145 M105 80L350 185 M105 80L350 225 M105 80L350 265 M105 140L350 65 M105 140L350 105 M105 140L350 145 M105 140L350 185 M105 140L350 225 M105 140L350 265 M105 200L350 65 M105 200L350 105 M105 200L350 145 M105 200L350 185 M105 200L350 225 M105 200L350 265 M105 260L350 65 M105 260L350 105 M105 260L350 145 M105 260L350 185 M105 260L350 225 M105 260L350 265"/>
+    <path d="M350 65L600 65 M350 65L600 105 M350 65L600 145 M350 65L600 185 M350 65L600 225 M350 65L600 265 M350 105L600 65 M350 105L600 105 M350 105L600 145 M350 105L600 185 M350 105L600 225 M350 105L600 265 M350 145L600 65 M350 145L600 105 M350 145L600 145 M350 145L600 185 M350 145L600 225 M350 145L600 265 M350 185L600 65 M350 185L600 105 M350 185L600 145 M350 185L600 185 M350 185L600 225 M350 185L600 265 M350 225L600 65 M350 225L600 105 M350 225L600 145 M350 225L600 185 M350 225L600 225 M350 225L600 265 M350 265L600 65 M350 265L600 105 M350 265L600 145 M350 265L600 185 M350 265L600 225 M350 265L600 265"/>
+    <path d="M600 65L850 65 M600 65L850 105 M600 65L850 145 M600 65L850 185 M600 65L850 225 M600 65L850 265 M600 105L850 65 M600 105L850 105 M600 105L850 145 M600 105L850 185 M600 105L850 225 M600 105L850 265 M600 145L850 65 M600 145L850 105 M600 145L850 145 M600 145L850 185 M600 145L850 225 M600 145L850 265 M600 185L850 65 M600 185L850 105 M600 185L850 145 M600 185L850 185 M600 185L850 225 M600 185L850 265 M600 225L850 65 M600 225L850 105 M600 225L850 145 M600 225L850 185 M600 225L850 225 M600 225L850 265 M600 265L850 65 M600 265L850 105 M600 265L850 145 M600 265L850 185 M600 265L850 225 M600 265L850 265"/>
+    <path d="M850 65L1095 105 M850 65L1095 145 M850 65L1095 185 M850 105L1095 105 M850 105L1095 145 M850 105L1095 185 M850 145L1095 105 M850 145L1095 145 M850 145L1095 185 M850 185L1095 105 M850 185L1095 145 M850 185L1095 185 M850 225L1095 105 M850 225L1095 145 M850 225L1095 185 M850 265L1095 105 M850 265L1095 145 M850 265L1095 185"/>
+  </g>
+  <g fill="#0ea5e9" stroke="#67e8f9"><circle cx="105" cy="80" r="11"/><circle cx="105" cy="140" r="11"/><circle cx="105" cy="200" r="11"/><circle cx="105" cy="260" r="11"/></g>
+  <g fill="#0f3a6b" stroke="#818cf8"><circle cx="350" cy="65" r="11"/><circle cx="350" cy="105" r="11"/><circle cx="350" cy="145" r="11"/><circle cx="350" cy="185" r="11"/><circle cx="350" cy="225" r="11"/><circle cx="350" cy="265" r="11"/><circle cx="600" cy="65" r="11"/><circle cx="600" cy="105" r="11"/><circle cx="600" cy="145" r="11"/><circle cx="600" cy="185" r="11"/><circle cx="600" cy="225" r="11"/><circle cx="600" cy="265" r="11"/><circle cx="850" cy="65" r="11"/><circle cx="850" cy="105" r="11"/><circle cx="850" cy="145" r="11"/><circle cx="850" cy="185" r="11"/><circle cx="850" cy="225" r="11"/><circle cx="850" cy="265" r="11"/></g>
+  <g fill="#241a66" stroke="#c084fc"><circle cx="1095" cy="105" r="13"/><circle cx="1095" cy="145" r="13"/><circle cx="1095" cy="185" r="13"/></g>
+  <g fill="url(#node)" filter="url(#glow)">
+    <circle cx="105" cy="140" r="5"><animate attributeName="r" values="5;10;5" dur="2.1s" repeatCount="indefinite"/></circle><circle cx="350" cy="185" r="5"><animate attributeName="r" values="5;10;5" dur="1.8s" begin=".3s" repeatCount="indefinite"/></circle><circle cx="600" cy="105" r="5"><animate attributeName="r" values="5;10;5" dur="2s" begin=".7s" repeatCount="indefinite"/></circle><circle cx="850" cy="225" r="5"><animate attributeName="r" values="5;10;5" dur="1.7s" begin="1s" repeatCount="indefinite"/></circle><circle cx="1095" cy="145" r="5"><animate attributeName="r" values="5;10;5" dur="1.6s" begin="1.3s" repeatCount="indefinite"/></circle>
+  </g>
+  <g fill="#fff" filter="url(#glow)">
+    <circle r="4"><animateMotion dur="4.2s" repeatCount="indefinite" path="M105 80L350 145L600 225L850 185L1095 145"/></circle><circle r="4"><animateMotion dur="4.2s" begin=".8s" repeatCount="indefinite" path="M105 260L350 65L600 105L850 265L1095 185"/></circle><circle r="4"><animateMotion dur="4.2s" begin="1.6s" repeatCount="indefinite" path="M105 140L350 225L600 65L850 145L1095 105"/></circle><circle r="4"><animateMotion dur="4.2s" begin="2.4s" repeatCount="indefinite" path="M105 200L350 105L600 185L850 65L1095 145"/></circle>
+  </g>
+  <text x="600" y="325" fill="#64748b" font-family="monospace" font-size="12" letter-spacing="1" text-anchor="middle">DENSE MULTI-LAYER PERCEPTRON <tspan fill="#38bdf8">•</tspan> FORWARD PROPAGATION IN MOTION</text>
+</svg>
